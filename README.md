@@ -1,1 +1,2 @@
 # 23CS101
+Hello! I am a computer science student interested in web development and software engineering. This repository contains my work and projects completed during my learning journey, including JavaScript, React, Node.js, and API-based applications.
